@@ -51,7 +51,7 @@ int main(void) {
   // Day
   printf(" %d", day);
 
-  // Print the suffix for a given day
+  // Suffix
   switch (day) {
     case 1: case 21: case 31:
       printf("st");
