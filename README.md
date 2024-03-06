@@ -7,3 +7,4 @@ anagrams.c = practicing strings, counters and if-else statements
 random.c = random number generator (1-100)  
 leapYear.c = practicing functions, logical operators and bools  
 calendar.c = practicing pointers, arrays and functions  
+race.c = race generator (practicing structures and functions)  
